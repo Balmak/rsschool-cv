@@ -18,11 +18,15 @@ I work as a system administrator at Belarusian Railway and also I work at ITGENI
 
 My estimated English level is **B1** (according to self-testing).
 
+**Projects:**
+[CV Task](https://github.com/Balmak/rsschool-cv) 
+
 **How you can find me?**
 
 * *Phone number: +375(29)230-47-60*
 * *Gmail: IlyaBalmakov@gmail.com*
-* *https://www.linkedin.com/in/balmak/*
+* *Discord: Ilya Balmakou(@Balmak)*
+* *[LinkedIn](https://www.linkedin.com/in/balmak/)*
 
 **Code example:**
 ```
