@@ -20,9 +20,9 @@ My estimated English level is **B1** (according to self-testing).
 
 **How you can find me?**
 
-*Phone number: +375(29)230-47-60*
-*Gmail: IlyaBalmakov@gmail.com*
-*https://www.linkedin.com/in/balmak/*
+* *Phone number: +375(29)230-47-60*
+* *Gmail: IlyaBalmakov@gmail.com*
+* *https://www.linkedin.com/in/balmak/*
 
 **Code example:**
 ```
