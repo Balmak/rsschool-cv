@@ -1,7 +1,7 @@
 ### Ilya Balmakov
 >We all learn to walk before we learn to fly!
 
-![Avatar](/assets/ProfilePhoto.jpg)
+![Avatar](/assets/images/ProfilePhoto.jpg)
 
 **About me:**
 
